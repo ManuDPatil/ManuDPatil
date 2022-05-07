@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManuDPatil
+- 👋 Hi, I’m Android Developer@Manu
 - 👀 I’m interested in Android Developmen
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
